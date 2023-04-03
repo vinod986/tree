@@ -19,6 +19,7 @@ public class set {
 		for(Character c:se) {
 			if((all.get(c)>1)){
 				System.out.println(c+":"+all.get(c));
+				System.out.println(" Keys Captured");
 			}
 	}
 	}
